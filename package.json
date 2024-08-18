@@ -9,7 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Ayush-Kanduri/Todo-List-App_BackEnd-MENStack.git"
+		"url": "git+https://github.com/akhiliano/to-do-list"
 	},
 	"keywords": [
 		"mongodb",
@@ -17,12 +17,12 @@
 		"expressjs",
 		"todo-list-app"
 	],
-	"author": "ayush kanduri",
+	"author": "akhil kumar",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/Ayush-Kanduri/Todo-List-App_BackEnd-MENStack/issues"
+		"url": "https://github.com/akhiliano/to-do-list/issues"
 	},
-	"homepage": "https://github.com/Ayush-Kanduri/Todo-List-App_BackEnd-MENStack#readme",
+	"homepage": "https://github.com/akhiliano/to-do-list#readme",
 	"dependencies": {
 		"cors": "^2.8.5",
 		"dotenv": "^16.0.1",
